@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JP1108
 - 👀 I’m interested in Computer engineering
-- 🌱 I’m currently learning Java (Objectoriented Programming and Programming interactive systems)
 - 📫 How to reach me: Email: jonathan.passauer@mni.thm.de
 
 <!---
